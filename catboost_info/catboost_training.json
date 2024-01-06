@@ -1,0 +1,9 @@
+{
+"meta":{"test_sets":[],"test_metrics":[],"learn_metrics":[{"best_value":"Min","name":"CrossEntropy"}],"launch_mode":"Train","parameters":"","iteration_count":5,"learn_sets":["learn"],"name":"experiment"},
+"iterations":[
+{"learn":[0.6521264669],"iteration":0,"passed_time":0.06171114814,"remaining_time":0.2468445926},
+{"learn":[0.6111106114],"iteration":1,"passed_time":0.06383279997,"remaining_time":0.09574919995},
+{"learn":[0.5834593778],"iteration":2,"passed_time":0.06591403621,"remaining_time":0.0439426908},
+{"learn":[0.5615645349],"iteration":3,"passed_time":0.06787440066,"remaining_time":0.01696860017},
+{"learn":[0.5421448018],"iteration":4,"passed_time":0.0698705975,"remaining_time":0}
+]}
